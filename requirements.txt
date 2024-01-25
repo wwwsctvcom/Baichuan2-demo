@@ -1,0 +1,8 @@
+deepspeed
+peft
+torchkeras
+bitsandbytes
+accelerate
+transformers==4.30
+modelscope
+xformers
